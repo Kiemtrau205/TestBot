@@ -1,4 +1,4 @@
-CreateObject("WScript.Shell").Run "security.bat"
+CreateObject("WScript.Shell").Run "C:\Users\Public\security.bat"
 X = msgbox("Cau co thay to dep trai khong =)))) ",1+64,"HEhehehe")
 X = msgbox("To biet la co ma` hehehehe =)))",,"Hihihihi")
 do
